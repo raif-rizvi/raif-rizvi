@@ -8,7 +8,7 @@ I'm a Certified Business Analysis Professional with rich experience in various d
 - 🌱 Currently enhancing my knowledge of Machine Learning
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/syed-raif-qaiser-rizvi-26459344/)
 - 📧 Email: raif.rizvi@gmail.com
-- 📍 Location: L1S 6S5, ON, Canada
+- 📍 Location: Greater Toronto Area, ON, Canada
 
 ## Skills
 
