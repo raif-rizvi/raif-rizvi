@@ -4,7 +4,7 @@ I'm a Certified Business Analysis Professional with rich experience in various d
 
 - 🏢 Worked in different data centric roles, with an emphasis on enabling strategic data driven decison making through with accurate and in time insights.
 - 🎓 Education: Leeds Metropolitan University, Indian Institute of Information Technology, University of London
-- 💻 Proficient in C#, Python, and R programming languages
+- 💻 Proficient in C#, Python,SQL and R programming languages
 - 🌱 Currently enhancing my knowledge of Machine Learning
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/syed-raif-qaiser-rizvi-26459344/)
 - 📧 Email: raif.rizvi@gmail.com
